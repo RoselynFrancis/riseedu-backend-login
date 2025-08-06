@@ -30,7 +30,7 @@ JWT (JSON Web Tokens) is used for secure authentication.
 | POST   | /register | Register new user   |
 | POST   | /login    | Login and get token |
 
----
+-Pull request test by Roselyn--
 
 ## 👩‍💻 Author
 
